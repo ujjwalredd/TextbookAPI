@@ -1,0 +1,31 @@
+# PDFs (too large for git)
+textbooks/*.pdf
+
+# Cached indexes
+.cache/
+
+# API keys
+api_keys.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
