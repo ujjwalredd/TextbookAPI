@@ -481,5 +481,4 @@ The following areas are open for improvement:
   * **Rate limiting**: Per-key rate limiting on the API.
 
 ## License
-
-This project is currently unlicensed. If you intend to use it in production or distribute it, please add a LICENSE file to the repository.
+MIT License
