@@ -75,7 +75,7 @@ The server will automatically pull the required model (`qwen2.5:3b`) on first st
 Clone the repository and install dependencies:
 
 ```
-git clone https://github.com/your-username/textbookapi.git
+git clone https://github.com/ujjwalredd/textbookapi.git
 cd textbookapi
 pip install -r requirements.txt
 ```
